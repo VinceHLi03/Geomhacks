@@ -1,3 +1,4 @@
+#Stripping tool used is open source code found on GitHub: https://github.com/m-wrzr/populartimes
 import populartimes
 file = open("popularTimesData.txt", "w")
 
